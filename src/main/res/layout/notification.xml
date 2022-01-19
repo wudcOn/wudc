@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="1030px"
+        android:layout_height="150px"
+        android:layout_marginTop="60px"
+        android:backgroundTint="#FFF6DF"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:text="누군가 나의 버블에 ON 했어요!" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="1030px"
+        android:layout_height="150px"
+        android:backgroundTint="#FFF6DF"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:text="누군가 나의 버블에 ON 했어요!" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="1030px"
+        android:layout_height="150px"
+        android:backgroundTint="#FFF6DF"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:text="누군가 나의 버블에 ON 했어요!" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="1030px"
+        android:layout_height="150px"
+        android:backgroundTint="#FFF6DF"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:text="누군가 나의 버블에 ON 했어요!" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="1030px"
+        android:layout_height="150px"
+        android:backgroundTint="#FFF6DF"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:text="누군가 나의 버블에 ON 했어요!" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="1030px"
+        android:layout_height="150px"
+        android:backgroundTint="#FFF6DF"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:text="누군가 나의 버블에 ON 했어요!" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="1030px"
+        android:layout_height="150px"
+        android:backgroundTint="#FFF6DF"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:text="#해리포터 해시태그에 100개의 버블이 달렸어요!" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="1030px"
+        android:layout_height="150px"
+        android:backgroundTint="#FFF6DF"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:text="누군가 나의 버블에 ON 했어요!" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="1030px"
+        android:layout_height="150px"
+        android:backgroundTint="#FFF6DF"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:text="누군가 나의 버블에 ON 했어요!" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="1030px"
+        android:layout_height="150px"
+        android:backgroundTint="#FFF6DF"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:text="새로운 추천 해시태그가 등장했어요!" />
+
+</LinearLayout>

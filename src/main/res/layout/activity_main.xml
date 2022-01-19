@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+    <ImageButton
+        android:id="@+id/strage"
+        android:layout_width="94px"
+        android:layout_height="86px"
+        android:layout_gravity="left"
+        android:layout_marginLeft="39px"
+        android:layout_marginTop="140px"
+        android:backgroundTint="@color/white"
+        android:src="@drawable/storage" />
+
+    <ImageButton
+        android:id="@+id/bell"
+        android:layout_width="126px"
+        android:layout_height="126px"
+        android:layout_gravity="right"
+        android:backgroundTint="@color/white"
+        android:src="@drawable/bell" />
+
+    <ImageButton
+        android:id="@+id/recordOn"
+        android:layout_width="814px"
+        android:layout_height="814px"
+        android:adjustViewBounds="true"
+        android:backgroundTint="@color/white"
+        android:onClick="onRecord"
+        android:scaleType="fitCenter"
+        android:src="@drawable/mike" />
+
+    <ImageButton
+        android:id="@+id/recommend"
+        android:layout_width="216px"
+        android:layout_height="210px"
+        android:layout_marginLeft="0px"
+        android:layout_marginTop="1452px"
+        android:src="@drawable/recommend" />
+
+    <ImageButton
+        android:id="@+id/mypage"
+        android:layout_width="216px"
+        android:layout_height="210px"
+        android:layout_marginLeft="1080px"
+        android:layout_marginTop="1452px"
+        android:src="@drawable/mypage" />
+
+</LinearLayout>
+</LinearLayout>
