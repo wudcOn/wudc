@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+    출처: https://codeomni.tistory.com/216 [codeomni]
+
+    <style name="Buttoncolor">
+        <item name="colorControlNormal">#F4F4F4</item>
+    </style>
+
+</resources>
